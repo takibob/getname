@@ -3,7 +3,7 @@ author:
   name: 
   email: 
 description: > # this means to ignore newlines until "show_excerpts:"
-  take a chinese name now! get a chinese for you!
+  take a chinese name now! get a chinese name for you!
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
@@ -14,8 +14,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    # twitter: jekyllrb
+    # github:  jekyll
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -56,3 +56,8 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+# Google Analytics
+google_analytics: UA-189977312-1
+
+
